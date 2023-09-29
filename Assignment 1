@@ -1,0 +1,31 @@
+#!/usr/bin/python 3
+''' KIMANI GEOFFREY CHEGE
+    
+    SCT211-0002/2019 
+    '''
+
+''' A simple calculator which accepts two numbers
+ from the user , finds their sum and displays the result'''
+
+# prompting the user to enter his/ her name
+name = input("Please enter your name:")
+  
+# greets the user
+print("Hello", name)
+
+#prompting the user to enter the two numbers
+
+ # prompting the user to enter two numbers
+first_num = int(input('Please enter the first integer: '))
+
+second_num = int(input('Please enter the second integer: '))
+
+   # performs the Addition
+sum = int(first_num)+ int( second_num)
+              
+              # displays the result
+
+print(f'The sum of the two integers is: {sum}')
+
+   
+   

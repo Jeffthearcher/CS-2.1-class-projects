@@ -13,7 +13,6 @@ name = input("Please enter your name:")
 # greets the user
 print("Hello", name)
 
-#prompting the user to enter the two numbers
 
  # prompting the user to enter two numbers
 first_num = int(input('Please enter the first integer: '))
